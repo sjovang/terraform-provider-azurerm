@@ -1,3 +1,6 @@
+// Copyright (c) HashiCorp, Inc.
+// SPDX-License-Identifier: MPL-2.0
+
 package digitaltwins
 
 // leaving the DigitalTwins prefix here to avoid stuttering the property name for now

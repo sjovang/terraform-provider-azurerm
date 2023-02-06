@@ -1,3 +1,6 @@
+// Copyright (c) HashiCorp, Inc.
+// SPDX-License-Identifier: MPL-2.0
+
 package redis
 
 // @tombuildsstuff: these three are going to need state migrations to account for `Redis` -> `redis` prior to adopting `hashicorp/go-azure-sdk`
